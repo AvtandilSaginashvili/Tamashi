@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box !important;
+}
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #081012 !important;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(../fonts/Inter.ttf);
+}
+
+
+
+/* Contents */
+
+
+
+.h1-tamashi {
+    font-family: 'Inter' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 78px !important;
+    color: #fff !important;
+    margin: 0 !important;
+}
+
+.p1 {
+    font-family: 'Inter' !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 32px !important;
+    color: #fff !important;
+    margin: 0 !important;
+}
+
+.backimg {
+    background-image: url(../pics/image\ 1381.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.h1-tamashi1 {
+    font-family: 'Inter' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 46.2671px !important;
+    color: #fff !important;
+    margin: 0 !important;
+}
+
+.p2 {
+    font-family: 'Inter' !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 18.9814px !important;
+    color: #fff !important;
+    margin: 0 !important;
+}
